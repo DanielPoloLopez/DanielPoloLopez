@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Daniel Polo Lopez</h1>
 <h3 align="center">Un Desarrollador WEB de Catalunya</h3>
 
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielpololopez&label=Profile%20views&color=0e75b6&style=flat" alt="danielpololopez" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@shando95" target="blank"><img src="https://img.shields.io/twitter/follow/@shando95?logo=twitter&style=for-the-badge" alt="@shando95" /></a> </p>
